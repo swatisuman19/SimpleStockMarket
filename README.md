@@ -38,3 +38,4 @@ This is a maven project, so you can run these 2 goals:
 # SuperSmartMarket
 # SimpleStockMarket
 # SimpleStockMarket
+# StockMarket
